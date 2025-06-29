@@ -15,7 +15,7 @@ import AdminSettings from './pages/adminPages/adminSettings';
 import AdminBookings from './pages/adminPages/adminBookings';
 import AdminReports from './pages/adminPages/adminReports';
 import AdminUsers from './pages/adminPages/adminUsers';
-import AdminProfile from './components/AdminProfile';
+import AdminProfile from './components/adminProfile';
 
 const App = () => {
   return (
